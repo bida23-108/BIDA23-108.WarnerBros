@@ -288,5 +288,12 @@ figcaption {
   font-style: italic;
   color: antiquewhite;
 }
+.hover-image {
+  transition: transform 0.5s ease, filter 0.5s ease;
+}
 
+.hover-image:hover {
+  transform: scale(1.1); /* Scale up the image */
+  filter: brightness(80%); /* Dim the image */
+}
 
