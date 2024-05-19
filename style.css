@@ -11,7 +11,7 @@
   display: inline-block;
 }
 navbar-collapse {
-  background-color: #f8f9fa;
+  background: url(Media.jpg);
 }
 
 li a, .dropbtn {
