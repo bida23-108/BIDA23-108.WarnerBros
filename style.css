@@ -10,7 +10,9 @@
 .navbar-nav{
   display: inline-block;
 }
-
+navbar-collapse {
+  background-color: #f8f9fa;
+}
 
 li a, .dropbtn {
     display: inline-block;
